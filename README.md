@@ -21,7 +21,7 @@
   
   
   
- ##  Connect with me:
+ ##  Contact me:
 [<img align="left" alt="Ido Zemel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ido-zemel/)
 [<img align="left" alt="Ido Zemel | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:idozemel94@gmail.com)
 
